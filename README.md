@@ -51,6 +51,11 @@ python standalone_code_to_exe.py yourfile.code
 # 支持命令行参数指定输出名、批量、递归等
 ```
 
+### 4. 导入库
+```bash
+add 库名.py
+# 本项目自带两个库：gameplus和cmd
+```
 ---
 
 ## python++ 极简GUI语法
